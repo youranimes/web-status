@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 10.28
+* update [#44)(/../../issues/44) Studio 頁面 UI Flow 修正
+
 ### 10.21
 * udpate [#43](/../../issues/43) 輸入開始與結束日期要按很久
 
