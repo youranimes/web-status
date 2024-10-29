@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 10.29
+* Update [#42](/../../issues/42) CatchPlay+系列作品下架偵測需修改
+
 ### 10.28
 * update [#44](/../../issues/44) Studio 頁面 UI Flow 修正
 
