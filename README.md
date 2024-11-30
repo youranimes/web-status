@@ -1,6 +1,10 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 11.30
+* Update [#60](/../../issues/60) 更新HamiVideo Parser
+* Update [#58](/../../issues/58) 加入作品元素資訊於新番表之中
+
 ### 11.26
 * Update [#45](/../../issues/45) 在每季新番一覽中，提供成人向顯示選項
 
