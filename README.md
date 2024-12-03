@@ -1,6 +1,11 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 12.03
+* Update [#62](/../../issues/62) 修正 HamiVideo parser, 支援手動下架
+
+
+===
 ### 11.30
 * Update [#60](/../../issues/60) 更新HamiVideo Parser
 * Update [#58](/../../issues/58) 加入作品元素資訊於新番表之中
@@ -16,8 +21,6 @@
 
 ### 11.18
 * Update [#51](/../../issues/51) 新番表初步改版計畫
-
-
 
 ### 11.12
 * Update [#48](/../../issues/48) 改善 Netflix 作品偵測錯誤，減少人工介入次數
