@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 12.06
+* Update [#63](/../../issues/63) ofiii parser更新
+
 ### 12.03
 * Update [#62](/../../issues/62) 修正 HamiVideo parser, 支援手動下架
 
