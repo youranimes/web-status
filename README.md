@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 12.07
+* Update [#55](/../../issues/55) Netflix Parser 更新
+
 ### 12.06
 * Update [#63](/../../issues/63) ofiii parser更新
 
