@@ -1,6 +1,10 @@
 # YourAnimes 開發工作狀況
 
 ## 2024更新
+### 12.12
+* Update [#64](/../../issues/64) 新番表 Aside 顯示修改
+
+
 ### 12.07
 * Update [#55](/../../issues/55) Netflix Parser 更新
 
