@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 01.14
+* Update [#77](/../../issues/77) 支援顯示Crunchyroll是否有中文字幕
+
 ### 01.13
 * Update [#78](/../../issues/78) [維護] 更新 Disney+ parser 
 
