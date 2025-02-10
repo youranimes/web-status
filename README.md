@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 02.10
+* Update [#84](/../../issues/84) 更新 HamiVideo 抓取程式
+
 ### 02.07
 * Update [#83](/../../issues/83) 更新 bilibili 抓取程式
 
