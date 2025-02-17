@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 02.17
+* Update [#86](/../../issues/86) Footer 浮在半空中
+
 ### 02.10
 * Update [#84](/../../issues/84) 更新 HamiVideo 抓取程式
 
