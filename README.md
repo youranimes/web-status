@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 02.23
+* Update [#87](/../../issues/87) 更新 Disneyplus 抓取程式邏輯
+
 ### 02.18
 * Update [#20](/../../issues/20) 動畫的書籍資料
 
