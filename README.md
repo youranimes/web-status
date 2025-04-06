@@ -1,6 +1,11 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 04.06
+* Update [#98](/../../../issues/98) Netflix 偵測程式維護
+
+
+=====
 ### 03.21
 * Update [#92](/../../../issues/92) 更新 YouTube 抓取程式邏輯
 
