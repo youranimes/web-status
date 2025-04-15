@@ -1,6 +1,10 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 04.15
+* Update [#99](/../../issues/99) 亂搭 偵測程式修正
+* Update [#100](/../../issues/100) HamiVideo 偵測程式修正
+
 ### 04.07
 * Update [#85](/../../issues/85) 人物資料顯示功能
 
