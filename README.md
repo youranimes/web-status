@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 04.23
+* Update [#103](/../../issues/103) Disney+ 偵測程式修
+
 ### 04.15
 * Update [#99](/../../issues/99) 亂搭 偵測程式修正
 * Update [#100](/../../issues/100) HamiVideo 偵測程式修正
