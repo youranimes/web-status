@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 04.27
+* Update [#102](/../../issues/102) YouTube 觀看次數偵測程式修正
+
 ### 04.23
 * Update [#103](/../../issues/103) Disney+ 偵測程式修
 
