@@ -1,8 +1,15 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 05.04
+* Update [#101](/../../issues/101) CATCHPLAY+ 偵測程式修正
+
+=====
 ### 04.27
 * Update [#102](/../../issues/102) YouTube 觀看次數偵測程式修正
+
+### 04.25
+* Update [#67](/../../issues/67) MongoDB 升級至 7 & 8
 
 ### 04.23
 * Update [#103](/../../issues/103) Disney+ 偵測程式修
