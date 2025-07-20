@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 07.20
+* Update [#114](../../issues/114) MyVideo Parser 修正
+
 ### 07.17
 * Update [#112](../../issues/112) 支援手動更新觀看次數
 
