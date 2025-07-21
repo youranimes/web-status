@@ -1,6 +1,9 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 07.21
+* Update [#116)(../../issues/116) ofiii 偵測程式修正
+
 ### 07.20
 * Update [#114](../../issues/114) MyVideo Parser 修正
 
