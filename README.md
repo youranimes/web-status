@@ -3,6 +3,7 @@
 ## 2025更新
 ### 07.21
 * Update [#116](../../issues/116) ofiii 偵測程式修正
+* Update [#117)(../../issues/117) HamiVideo 修正單次付費下架偵測
 
 ### 07.20
 * Update [#114](../../issues/114) MyVideo Parser 修正
