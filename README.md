@@ -1,6 +1,11 @@
 # YourAnimes 開發工作狀況
 
 ## 2025更新
+### 10.12
+* [#126](../../issues/126) friDay影音 作品下架偵測沒有正常發揮作用
+* [#127](../../issues/127) Disney+ 偵測邏輯修改
+
+=====
 ### 08.31
 * Update [#35](../../issues/35) 希望增加Dark mode
 * Update [#123](../../issues/123) 更新 web 和 api server 使用到套件版本，以修復安全性漏洞問題
