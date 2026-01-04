@@ -1,5 +1,8 @@
 # YourAnimes 開發工作狀況2
 ## 2026 更新
+## 01.04
+* 更新年份顯示至2027年
+
 ### 01.03
 * Update packages for security issue (web)
 
