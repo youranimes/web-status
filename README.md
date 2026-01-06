@@ -1,7 +1,7 @@
 # YourAnimes 開發工作狀況2
 ## 2026 更新
 ## 01.06
-* [#111]((../../issues/111) 支援 Crunchyroll parser 對於 season 判斷
+* [#111](../../issues/111) 支援 Crunchyroll parser 對於 season 判斷
 
 ## 01.04
 * 更新年份顯示至2027年
