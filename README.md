@@ -1,4 +1,4 @@
-# YourAnimes 開發工作狀況2
+# YourAnimes 開發工作狀況
 ## 2026 更新
 ## 01.06
 * [#111](../../issues/111) 支援 Crunchyroll parser 對於 season 判斷
