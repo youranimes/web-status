@@ -1,5 +1,9 @@
 # YourAnimes 開發工作狀況
 ## 2026 更新
+## 03.18
+* [#133](../../issues/133) 更新 Next.js 15
+* [#136](../../issues/136) 網站與管理介面的package升級
+
 ## 03.17
 * [#132](../../issues/132) 更新 API Server 的 Python 套件
 
