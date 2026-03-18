@@ -4,7 +4,7 @@
 * [#133](../../issues/133) 更新 Next.js 15
 * [#136](../../issues/136) 網站與管理介面的package升級
 * [#125](../../issues/125) 新增曼迪 YouTube 頻道影片和觀看次數數據
-* [#119)(../../issues/119) 更新 node & npm version
+* [#119](../../issues/119) 更新 node & npm version
 
 ## 03.17
 * [#132](../../issues/132) 更新 API Server 的 Python 套件
